@@ -28,7 +28,7 @@ Copy code
 cd <project-directory>
 Install Required Packages:
 
-Use pip to install the required libraries. You can run the following command in your terminal:
+Use pip to install the required libraries. Run the following command in your terminal:
 
 bash
 Copy code
@@ -39,24 +39,14 @@ bash
 Copy code
 pip install pyaudio
 Usage
-Run the Application:
-
-Execute the following command in your terminal or command prompt to start the application:
-
-bash
-Copy code
-python <script_name>.py
-Replace <script_name> with the name of your Python file (e.g., speech_to_youtube.py).
-
-Recording Speech:
-
+Recording Speech
 Click on the heart-shaped button labeled "💖 Record Speech 💖" to start recording.
 Speak clearly into your microphone for about 5 seconds.
-Search YouTube:
-
+Search YouTube
 After recording, the application will convert your speech to text.
 It will then automatically open your web browser and perform a YouTube search based on the recognized speech.
 Additional Notes
 Ensure your microphone is set up and working properly.
 You may need to allow access to your microphone depending on your operating system's settings.
 If you encounter any issues with speech recognition, try adjusting your microphone settings or speaking clearly.
+It is recommended to test the application in a quiet environment for better accuracy.
