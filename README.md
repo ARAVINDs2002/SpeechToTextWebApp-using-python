@@ -1,4 +1,4 @@
-Speech to YouTube Search Application
+      Speech to YouTube Search Application
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This application allows users to record their voice, convert the speech to text, and then perform a YouTube search based on the recognized speech. Built with Python's Tkinter library, SoundDevice, and SpeechRecognition packages, it provides a simple and interactive interface.
 Features
